@@ -112,18 +112,12 @@
   <tr>
     <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;">
       <p align="center">
-        <font face="Courier New, monospace" size="3" color="#000000">
-          [C] [C++] [Python] [JS] [TS] [React] [Next.js] [Tailwind] [Node.js] [Git] [Linux] [Neovim] [Figma]
-        </font>
-      </p>
-      <p align="center">
         <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,nodejs,git,linux,neovim,figma&theme=light&perline=7" />
       </p>
     </td>
   </tr>
 </table>
 
-<br>
 
 <!-- MUSIC WINDOW -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -146,7 +140,7 @@
   </tr>
 </table>
 
-<br>
+
 
 <!-- STATS WINDOW -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
