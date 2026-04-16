@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:b7c4a5,1:d4c4b7&height=200&section=header&text=dika%20aprilio&fontColor=3e3229&fontSize=60&fontAlignY=40&desc=19%20/%20bogor%2C%20indonesia%20/%20rekayasa%20perangkat%20lunak%20sv%20ipb&descSize=14&descAlignY=65&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2420,1:1a1410&height=180&section=header&text=dika%20aprilio&fontColor=e8ddd0&fontSize=55&fontAlignY=35&desc=19%20%7C%20bogor%2C%20indonesia%20%7C%20rekayasa%20perangkat%20lunak%20sv%20ipb&descSize=13&descAlignY=60&animation=fadeIn">
 
 </div>
 
@@ -8,33 +8,31 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
-### about
+### tentang
 
-19 tahun. sedang belajar membangun perangkat lunak yang tidak membuat orang bingung. mahasiswa sekolah vokasi ipb, program studi teknologi rekayasa perangkat lunak, bogor.
+saya dika, 19 tahun, asal bogor. sedang menempuh pendidikan di sekolah vokasi ipb, program studi teknologi rekayasa perangkat lunak.
 
-tidak suka tren yang tidak ada gunanya, tidak suka kode yang terlalu dibuat-buat kompleks, tidak suka startup speak.
-
-suka musik yang tidak diputar di radio, kopi tubruk pagi, dan terminal yang rapi.
+suka membangun hal-hal kecil yang berguna, tidak suka tren kosong, dan percaya bahwa kode yang baik adalah kode yang bisa dibaca orang lain.
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="45%">
 
-### currently
+### sedang dilakukan
 
 - belajar sistem terdistribusi
-- eksperimen dengan ui aneh
+- bereksperimen dengan antarmuka
 - menghindari hustle culture
-- membuat readme ini
+- ngopi dan ngoding
 
-### rejects
+### tidak suka
 
 ```
-- web3 for the sake of web3
 - leetcode sebagai personality
-- "grindset"
-- corpo speak
+- startup speak
+- overengineering
+- ikut-ikutan tren tanpa arah
 ```
 
     </td>
@@ -43,69 +41,59 @@ suka musik yang tidak diputar di radio, kopi tubruk pagi, dan terminal yang rapi
 
 ---
 
-### what i use
+### teknologi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-5c4d42?style=flat-square&logo=c&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/C-3e3229?style=flat-square&logo=c&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/C++-5c4d42?style=flat-square&logo=c%2B%2B&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/C++-3e3229?style=flat-square&logo=c%2B%2B&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-5c4d42?style=flat-square&logo=python&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Python-3e3229?style=flat-square&logo=python&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-5c4d42?style=flat-square&logo=javascript&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/JavaScript-3e3229?style=flat-square&logo=javascript&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-5c4d42?style=flat-square&logo=typescript&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/TypeScript-3e3229?style=flat-square&logo=typescript&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/React-5c4d42?style=flat-square&logo=react&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/React-3e3229?style=flat-square&logo=react&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-5c4d42?style=flat-square&logo=next.js&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Next.js-3e3229?style=flat-square&logo=next.js&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind-5c4d42?style=flat-square&logo=tailwindcss&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Tailwind-3e3229?style=flat-square&logo=tailwindcss&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-5c4d42?style=flat-square&logo=node.js&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Node.js-3e3229?style=flat-square&logo=node.js&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-5c4d42?style=flat-square&logo=git&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Git-3e3229?style=flat-square&logo=git&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Linux-5c4d42?style=flat-square&logo=linux&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Linux-3e3229?style=flat-square&logo=linux&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Neovim-5c4d42?style=flat-square&logo=neovim&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Neovim-3e3229?style=flat-square&logo=neovim&logoColor=f7f3ef" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Figma-5c4d42?style=flat-square&logo=figma&logoColor=f7f3ef" />
+  <img src="https://img.shields.io/badge/Figma-3e3229?style=flat-square&logo=figma&logoColor=f7f3ef" />
 </p>
 
 ---
 
-### now playing
+### musik
 
-<div align="center">
-
-[![spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege)
-
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+  </a>
+</p>
 
 ---
 
-### numbers
+### statistik
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=vue&hide_border=true&bg_color=f7f3ef&title_color=5c4d42&icon_color=8b7355&text_color=3e3229&border_radius=8" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1410&title_color=e8ddd0&icon_color=d4c4b7&text_color=c9b8a8&border_radius=8" height="170">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=vue&hide_border=true&bg_color=f7f3ef&title_color=5c4d42&text_color=3e3229&border_radius=8" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1410&title_color=e8ddd0&icon_color=d4c4b7&text_color=c9b8a8&border_radius=8" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dikaprilio&theme=soft-green&hide_border=true&background=f7f3ef&stroke=5c4d42&ring=8b7355&fire=8b7355&currStreakLabel=5c4d42&sideLabels=5c4d42&currStreakNum=3e3229&sideNums=3e3229&dates=8b7355&border_radius=8" height="170">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikaprilio&theme=react&hide_border=true&bg_color=f7f3ef&color=5c4d42&line=8b7355&point=5c4d42&area=true&area_color=d4c4b7&custom_title=contribution%20graph" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dikaprilio&theme=gruvbox&hide_border=true&background=1a1410&stroke=e8ddd0&ring=d4c4b7&fire=d4c4b7&currStreakLabel=e8ddd0&sideLabels=e8ddd0&currStreakNum=c9b8a8&sideNums=c9b8a8&dates=8b7355&border_radius=8" height="170">
 </p>
-
----
-
-### words
-
-> "kode itu alat, bukan identitas."
-
-> "jangan ikut-ikutan tren kalau trennya tidak masuk akal."
 
 ---
 
@@ -113,12 +101,10 @@ suka musik yang tidak diputar di radio, kopi tubruk pagi, dan terminal yang rapi
   <a href="https://github.com/dikaprilio">github</a>
   &nbsp;|&nbsp;
   <a href="https://instagram.com/qprilio">instagram</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:dikaprilio@example.com">email</a>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4c4b7,1:b7c4a5&height=60&section=footer&text=&fontSize=0" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1410,1:2d2420&height=80&section=footer&text=&fontSize=0" width="100%">
 
 </div>
