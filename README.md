@@ -5,106 +5,210 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=D4C4B7&center=true&vCenter=true&width=600&lines=dika+aprilio;19+tahun+%7C+bogor+%7C+indonesia;teknologi+rekayasa+perangkat+lunak+sv+ipb;kode+yang+baik+adalah+kode+yang+dapat+dibaca" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fixedsys&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=500&lines=dika+aprilio;19+tahun+%7C+bogor+%7C+indonesia;rekayasa+perangkat+lunak+sv+ipb" alt="typing" />
 </div>
 
 <br>
 
-<table>
+<!-- ABOUT WINDOW -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td valign="top" width="50%">
-      <h3>tentang saya</h3>
-      <p>
-        mahasiswa sekolah vokasi ipb, program studi <strong>teknologi rekayasa perangkat lunak</strong>. 
-        asal bogor, 19 tahun.
-      </p>
-      <p>
-        suka membangun hal-hal kecil yang berguna. tidak suka tren kosong, tidak suka kode yang sengaja dibuat rumit, dan tidak percaya hustle culture.
-      </p>
+    <td bgcolor="#0A246A" style="padding: 4px 8px; border-radius: 4px 4px 0 0;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+            <font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;tentang_saya.exe</b></font>
+          </td>
+          <td align="right">
+            <font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="top" width="50%">
-      <h3>sedang & tidak</h3>
-      <p><strong>sedang:</strong></p>
-      <ul>
-        <li>belajar sistem terdistribusi</li>
-        <li>eksperimen antarmuka aneh</li>
-        <li>ngopi dan ngoding</li>
-      </ul>
-      <p><strong>tidak suka:</strong></p>
-      <ul>
-        <li>leetcode sebagai personality</li>
-        <li>startup speak</li>
-        <li>overengineering</li>
-        <li>ikut-ikutan tren tanpa arah</li>
-      </ul>
+  </tr>
+  <tr>
+    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;">
+      <p align="justify">
+        <font face="Courier New, monospace" size="3" color="#000000">
+          mahasiswa sekolah vokasi ipb, program studi <strong>teknologi rekayasa perangkat lunak</strong>. asal bogor, 19 tahun.<br><br>
+          suka membangun hal-hal kecil yang berguna. tidak suka tren kosong, tidak suka kode yang sengaja dibuat rumit, dan tidak percaya hustle culture.
+        </font>
+      </p>
     </td>
   </tr>
 </table>
 
 <br>
 
----
+<!-- CURRENTLY & REJECTS WINDOWS SIDE BY SIDE -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="48%" valign="top">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td bgcolor="#0A246A" style="padding: 4px 8px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;sedang_dilakukan.txt</b></font></td>
+                <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ECE9D6" style="padding: 10px; border: 2px solid #0054E3; border-top: none;">
+            <font face="Courier New, monospace" size="3" color="#000000">
+              [x] belajar sistem terdistribusi<br>
+              [x] eksperimen antarmuka aneh<br>
+              [_] ngopi dan ngoding<br>
+              [x] menghindari hustle culture
+            </font>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="4%">&nbsp;</td>
+    <td width="48%" valign="top">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td bgcolor="#0A246A" style="padding: 4px 8px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;tidak_suka.dll</b></font></td>
+                <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ECE9D6" style="padding: 10px; border: 2px solid #0054E3; border-top: none;">
+            <font face="Courier New, monospace" size="3" color="#000000">
+              [-] leetcode sebagai personality<br>
+              [-] startup speak<br>
+              [-] overengineering<br>
+              [-] ikut-ikutan tren tanpa arah
+            </font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### teknologi yang dipakai
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,nodejs,git,linux,neovim,figma&theme=dark&perline=7" />
-</p>
+<!-- TECH WINDOW -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;C:\Program Files\teknologi</b></font></td>
+          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;">
+      <p align="center">
+        <font face="Courier New, monospace" size="3" color="#000000">
+          [C] [C++] [Python] [JS] [TS] [React] [Next.js] [Tailwind] [Node.js] [Git] [Linux] [Neovim] [Figma]
+        </font>
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,nodejs,git,linux,neovim,figma&theme=light&perline=7" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### musik
+<!-- MUSIC WINDOW -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;Winamp — now playing</b></font></td>
+          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;" align="center">
+      <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
-  </a>
-</p>
+<br>
 
----
+<!-- STATS WINDOW -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;system_properties — statistik</b></font></td>
+          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;" align="center">
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=vue&hide_border=true&bg_color=ECE9D6&title_color=0A246A&icon_color=0054E3&text_color=000000&border_radius=0" height="170">
+        &nbsp;&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=vue&hide_border=true&bg_color=ECE9D6&title_color=0A246A&icon_color=0054E3&text_color=000000&border_radius=0" height="170">
+      </p>
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=dikaprilio&theme=soft-green&hide_border=true&background=ECE9D6&stroke=0A246A&ring=0054E3&fire=0054E3&currStreakLabel=0A246A&sideLabels=0A246A&currStreakNum=000000&sideNums=000000&dates=000000&border_radius=0" height="170">
+      </p>
+    </td>
+  </tr>
+</table>
 
-### statistik & aktivitas
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1410&title_color=e8ddd0&icon_color=d4c4b7&text_color=c9b8a8&border_radius=8" height="170">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1410&title_color=e8ddd0&icon_color=d4c4b7&text_color=c9b8a8&border_radius=8" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dikaprilio&theme=gruvbox&hide_border=true&background=1a1410&stroke=e8ddd0&ring=d4c4b7&fire=d4c4b7&currStreakLabel=e8ddd0&sideLabels=e8ddd0&currStreakNum=c9b8a8&sideNums=c9b8a8&dates=8b7355&border_radius=8" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikaprilio&theme=react&hide_border=true&bg_color=1a1410&color=e8ddd0&line=d4c4b7&point=e8ddd0&area=true&area_color=d4c4b7&custom_title=grafik%20kontribusi" />
-</p>
-
----
-
-### terhubung
-
-<p align="center">
-  <a href="https://github.com/dikaprilio">
-    <img src="https://img.shields.io/badge/github-3e3229?style=for-the-badge&logo=github&logoColor=f7f3ef" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/qprilio">
-    <img src="https://img.shields.io/badge/instagram-3e3229?style=for-the-badge&logo=instagram&logoColor=f7f3ef" />
-  </a>
-  &nbsp;
-  <a href="mailto:dikaprilio@example.com">
-    <img src="https://img.shields.io/badge/email-3e3229?style=for-the-badge&logo=gmail&logoColor=f7f3ef" />
-  </a>
-</p>
+<!-- CONTACT WINDOW -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;contact_me.exe</b></font></td>
+          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;" align="center">
+      <p>
+        <font face="Courier New, monospace" size="3" color="#000000">
+          <a href="https://github.com/dikaprilio">github.com/dikaprilio</a> | 
+          <a href="https://instagram.com/qprilio">instagram.com/qprilio</a> | 
+          <a href="mailto:apridika07@gmail.com">apridika07@gmail.com</a>
+        </font>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dikaprilio&color=d4c4b7&style=flat-square&label=profil+dilihat" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1410,1:2d2420&height=80&section=footer&text=&fontSize=0" width="100%">
+  <font face="Courier New, monospace" size="2" color="#808080">
+    ═══════════════════════════════════════<br>
+    dika aprilio © 2025 — windows xp edition<br>
+    ═══════════════════════════════════════
+  </font>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=dikaprilio&color=0054E3&style=flat-square&label=visitors" />
 </div>
