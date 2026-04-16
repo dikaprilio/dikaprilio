@@ -97,45 +97,51 @@
 
 <br>
 
-<!-- TECH WINDOW -->
-<table width="50%" cellpadding="0" cellspacing="0" border="0">
+<!-- TECH & MUSIC WINDOWS SIDE BY SIDE -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+    <td width="55%" valign="top">
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
-          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;C:\Program Files\teknologi</b></font></td>
-          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+          <td bgcolor="#0A246A" style="padding: 4px 8px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;C:\Program Files\teknologi</b></font></td>
+                <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;">
+            <p align="center">
+              <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,nodejs,git,linux,neovim,figma&theme=light&perline=7" />
+            </p>
+          </td>
         </tr>
       </table>
     </td>
-  </tr>
-  <tr>
-    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;">
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,nextjs,tailwind,nodejs,git,linux,neovim,figma&theme=light&perline=7" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<!-- MUSIC WINDOW -->
-<table width="50%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td bgcolor="#0A246A" style="padding: 4px 8px;">
+    <td width="2%">&nbsp;</td>
+    <td width="43%" valign="top">
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
-          <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;Winamp — now playing</b></font></td>
-          <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+          <td bgcolor="#0A246A" style="padding: 4px 8px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2"><b>&nbsp;Winamp — now playing</b></font></td>
+                <td align="right"><font color="#FFFFFF" face="Tahoma, Verdana, sans-serif" size="2">_ □ X&nbsp;</font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;" align="center">
+            <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
+              <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+            </a>
+          </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#ECE9D6" style="padding: 12px; border: 2px solid #0054E3; border-top: none;" align="center">
-      <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
-      </a>
     </td>
   </tr>
 </table>
