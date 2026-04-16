@@ -31,7 +31,7 @@
       <p align="justify">
         <font face="Courier New, monospace" size="3" color="#000000">
           mahasiswa sekolah vokasi ipb, program studi <strong>teknologi rekayasa perangkat lunak</strong>. asal bogor, 19 tahun.<br><br>
-          suka membangun hal-hal kecil yang berguna. tidak suka tren kosong, tidak suka kode yang sengaja dibuat rumit, dan tidak percaya hustle culture.
+          i love designing and stuff.
         </font>
       </p>
     </td>
@@ -195,14 +195,4 @@
   </tr>
 </table>
 
-<br>
 
-<div align="center">
-  <font face="Courier New, monospace" size="2" color="#808080">
-    ═══════════════════════════════════════<br>
-    dika aprilio © 2025 — windows xp edition<br>
-    ═══════════════════════════════════════
-  </font>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=dikaprilio&color=0054E3&style=flat-square&label=visitors" />
-</div>
