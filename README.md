@@ -98,7 +98,7 @@
 <br>
 
 <!-- TECH WINDOW -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="50%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td bgcolor="#0A246A" style="padding: 4px 8px;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -120,7 +120,7 @@
 
 
 <!-- MUSIC WINDOW -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="50%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td bgcolor="#0A246A" style="padding: 4px 8px;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
