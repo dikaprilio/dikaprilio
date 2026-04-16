@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=D4C4B7&center=true&vCenter=true&width=600&lines=dika+aprilio;19+tahun+%7C+bogor+%7C+indonesia;rekayasa+perangkat+lunak+sv+ipb;kode+yang+baik+adalah+kode+yang+dapat+dibaca" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=D4C4B7&center=true&vCenter=true&width=600&lines=dika+aprilio;19+tahun+%7C+bogor+%7C+indonesia;teknologi+rekayasa+perangkat+lunak+sv+ipb;kode+yang+baik+adalah+kode+yang+dapat+dibaca" alt="typing" />
 </div>
 
 <br>
