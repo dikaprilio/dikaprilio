@@ -76,11 +76,10 @@ suka membangun hal-hal kecil yang berguna, tidak suka tren kosong, dan percaya b
 ### musik
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege">
-    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31efuc4ftrvp5xqzgbzdyrf3pege&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
-
 ---
 
 ### statistik
