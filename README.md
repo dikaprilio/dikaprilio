@@ -1,117 +1,81 @@
 <div align="center">
 
-```
-    ▓█████▄  ██▓  ██████   ▄▄▄       ██▓███   ██▓ ▒█████    ██████ 
-    ▒██▀ ██▌▓██▒▒██    ▒  ▒████▄    ▓██░  ██▒▓██▒▒██▓  ██▒▒██    ▒ 
-    ░██   █▌▒██▒░ ▓██▄    ▒██  ▀█▄  ▓██░ ██▓▒▒██▒▒██▒  ██▒░ ▓██▄   
-    ░▓█▄   ▌░██░  ▒   ██▒ ░██▄▄▄▄██ ▒██▄█▓▒ ▒░██░░██  █▀ ░  ▒   ██▒
-    ░▒████▓ ░██░▒██████▒▒  ▓█   ▓██▒▒██▒ ░  ░░██░░▒███   ▒██████▒▒
-     ▒▒▓  ▒ ░▓  ▒ ▒▓▒ ▒ ░  ▒▒   ▓▒█░▒▓▒░ ░  ░░▓  ░░ ▒░   ▒ ▒▓▒ ▒ ░
-     ░ ▒  ▒  ▒ ░░ ░▒  ░ ░   ▒   ▒▒ ░░▒ ░      ▒ ░ ░ ░    ░ ░▒  ░ ░
-     ░ ░  ░  ▒ ░░  ░  ░     ░   ▒   ░░        ▒ ░   ░    ░  ░  ░  
-       ░     ░        ░         ░  ░          ░              ░     
-     ░                                                              
-```
+# dika aprilio
+
+19. code is just a tool.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:d4c4b7,1:e8ddd0&height=120&section=header&text=&fontSize=0" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<pre>
+currently:
+  learning stuff that isn't on tiktok
+  avoiding hustle culture
+  making things that feel right
+</pre>
+
+</div>
+
+<br>
+
+---
+
+### uses
+
+<p align="center">
+  <code>c</code> <code>c++</code> <code>python</code> <code>js</code> <code>ts</code> <code>react</code> <code>next</code> <code>tailwind</code> <code>node</code> <code>git</code> <code>linux</code> <code>nvim</code>
+</p>
+
+### rejects
+
+<p align="center">
+  <s>web3</s> &nbsp; <s>grindset</s> &nbsp; <s>leetcode for fun</s> &nbsp; <s>corporate speak</s> &nbsp; <s>overengineering</s>
+</p>
+
+---
+
+<br>
+
+<div align="center">
+
+[![spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/31efuc4ftrvp5xqzgbzdyrf3pege)
+
+</div>
+
+<br>
+
+---
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=vue&hide_border=true&bg_color=f7f3ef&title_color=5c4d42&icon_color=8b7355&text_color=3e3229" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=vue&hide_border=true&bg_color=f7f3ef&title_color=5c4d42&text_color=3e3229" height="170">
+</p>
+
+---
+
+<br>
+
+<div align="center">
+
+[![typing](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=4000&pause=1000&color=5C4D42&center=true&vCenter=true&width=300&lines=keep+it+simple;keep+it+real)](https://github.com/dikaprilio)
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A9FEF7&center=true&vCenter=true&width=600&lines=19+years+old;code+until+compiles;anti+mainstream+aesthetic;experimenting+in+the+void" alt="typing" />
+  <a href="https://github.com/dikaprilio">github</a> &nbsp;//&nbsp;
+  <a href="https://instagram.com/dikaprilio">instagram</a> &nbsp;//&nbsp;
+  <a href="mailto:dikaprilio@example.com">email</a>
 </p>
 
----
-
-```diff
-@@ SYSTEM STATUS @@
-+ online
-+ coding
-- sleeping
-- following trends
-```
-
-### now playing
-
-[![spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/dikaprilio)
-
----
-
-### tech stack // tools of chaos
-
-<p align="left">
-  <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/neovim-000000?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117"/>
-</p>
-
----
-
-### github stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikaprilio&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a9fef7&icon_color=a9fef7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikaprilio&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dikaprilio&theme=midnight-purple&hide_border=true&background=0d1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
-</p>
-
----
-
-### activity graph
-
-[![dika's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dikaprilio&theme=react-dark&hide_border=true&bg_color=0d1117&color=a9fef7&line=a9fef7&point=ffffff&area=true&area_color=a9fef7)](https://github.com/dikaprilio)
-
----
-
-### trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=dikaprilio&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</p>
-
----
-
-### contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikaprilio/dikaprilio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikaprilio/dikaprilio/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dikaprilio/dikaprilio/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> the contribution snake animation requires a github action. [setup guide](https://github.com/Platane/snk)
-
----
-
-### quote of the void
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quote=Build+your+own+mainstream.&author=Dika" />
-</p>
-
----
-
-<p align="center">
-  <samp>
-    <a href="https://github.com/dikaprilio">github</a> .
-    <a href="https://instagram.com/dikaprilio">instagram</a> .
-    <a href="mailto:dikaprilio@example.com">email</a>
-  </samp>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dikaprilio&color=a9fef7&style=flat-square&label=visitors" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8ddd0,1:d4c4b7&height=60&section=footer&text=&fontSize=0" width="100%">
